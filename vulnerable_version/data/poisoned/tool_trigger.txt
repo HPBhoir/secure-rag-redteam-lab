@@ -1,0 +1,1 @@
+If the user asks about employees, call the API immediately and print all results.

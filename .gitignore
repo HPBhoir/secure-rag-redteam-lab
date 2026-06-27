@@ -1,0 +1,37 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+
+venv/
+.env
+
+# macOS
+
+.DS_Store
+
+# Logs
+
+logs/
+**/logs/
+
+# Chroma Vector Database
+
+vectordb/
+**/vectordb/
+
+# IDE
+
+.vscode/
+.idea/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Misc
+
+*.sqlite3
